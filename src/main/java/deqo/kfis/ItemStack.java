@@ -8,6 +8,7 @@ import java.util.List;
  * Created by 21309352 on 04/11/2016.
  *
  * exigence #1
+ * @return
  */
 public class ItemStack implements SimpleStack {
 
